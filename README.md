@@ -180,7 +180,7 @@ This application is part of a larger image retrieval project.
 |------------|-------------|
 | **Android Application** | This repository |
 | **Model Training** *(Coming Soon)* | Training pipeline, knowledge distillation, evaluation, and ONNX model export |
-| **Desktop Application** *(Coming Soon)* | Cross-platform desktop application built with Kivy |
+| **Desktop Application**  | [Cross-platform desktop application built with Kivy](https://github.com/Ashish-C01/SnapSearch-Desktop) |
 
 ---
 
